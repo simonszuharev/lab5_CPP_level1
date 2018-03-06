@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491164303 source:c:\users\simon\desktop\programming\c++\lab5\main.cpp
+	<iostream>
+	"coin.h"
+	<random>
+	<ctime>
+
+1490226035 source:c:\users\simon\desktop\programming\c++\lab5\coin.cpp
+	"coin.h"
+	<random>
+
+1490225915 c:\users\simon\desktop\programming\c++\lab5\coin.h
+	<string>
+
